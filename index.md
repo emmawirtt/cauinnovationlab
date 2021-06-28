@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: template
+layout: _config.yml
 filename: index.md
 --- 
 
