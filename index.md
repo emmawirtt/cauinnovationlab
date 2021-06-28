@@ -1,5 +1,5 @@
 --- 
-title: Home
+title: CAU Innovation Lab
 filename: index.md
 ---
 # Home
