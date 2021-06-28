@@ -1,6 +1,6 @@
 ---
 title: resorces
-layout: template
+layout: _config.yml
 filename: resorces.md
 --- 
 
