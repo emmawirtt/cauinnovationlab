@@ -1,6 +1,8 @@
+---
 title: Home
 layout: template
-filename: idk 
+filename: index.md
+--- 
 
 ## Welcome to the Innovation Lab!
 ## Powered by Dell and The Home Depot
