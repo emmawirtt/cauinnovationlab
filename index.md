@@ -1,8 +1,3 @@
----
-title: Home
-layout: template
-filename: index
---- 
 
 # Welcome to the Innovation Lab!
 ## Powered by Dell and The Home Depot - hehe hi
