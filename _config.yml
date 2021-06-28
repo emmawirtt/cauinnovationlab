@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-plugins: jemoji
+plugins: 
+  - jemoji
 title: CAU Innovation Lab
 description: Powered by Dell and The Home Depot
