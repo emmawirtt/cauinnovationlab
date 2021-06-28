@@ -4,6 +4,10 @@ filename: index.md
 ---
 # Home
 
+:grin: Welcome! On this website you will have access to everything the innovation lab has to offer :grin:
+From learning more about programming languages, to finding a mentor, to learning more about jobs at Dell, we have it all!
+:hugs: Stay for a bit and explore! :hugs:
+
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
