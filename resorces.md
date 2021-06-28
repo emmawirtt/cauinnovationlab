@@ -1,7 +1,7 @@
 ---
-title: resorces
-layout: _config.yml
-filename: resorces.md
+title: Resorces
+layout: template
+filename: resorces
 --- 
 
 ## Learn more about innovative technology at Dell!
