@@ -1,3 +1,7 @@
+title: Home
+layout: template
+filename: idk 
+
 ## Welcome to the Innovation Lab!
 
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
