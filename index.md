@@ -4,8 +4,8 @@ layout: template
 filename: index
 --- 
 
-## Welcome to the Innovation Lab!
-# Powered by Dell and The Home Depot - hehe hi
+# Welcome to the Innovation Lab!
+## Powered by Dell and The Home Depot - hehe hi
 
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
