@@ -1,4 +1,6 @@
-
+--- 
+title: Home
+---
 # Welcome to the Innovation Lab!
 ## Powered by Dell and The Home Depot - hehe hi
 
