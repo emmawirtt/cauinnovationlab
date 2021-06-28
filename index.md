@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: _config.yml
-filename: index.md
+layout: template
+filename: index
 --- 
 
 ## Welcome to the Innovation Lab!
