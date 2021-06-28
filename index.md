@@ -2,7 +2,7 @@
 title: CAU Innovation Lab
 filename: index.md
 ---
-# Home
+# Home hi
 
 :grin: Welcome! On this website you will have access to everything the innovation lab has to offer :grin:
 
