@@ -38,7 +38,7 @@ HEYEYYYEO8
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
     <tr>
-        <th> <a href="https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers"> The Six Morning Habits of High Performers</a> </th>
+        <th> <a href="https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers"> Habits of High Performers</a> </th>
         <th> <a href="https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb"> Microsoft Excel</a></th>
         <th><a href="https://support.microsoft.com/en-us/office/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787"> Microsoft PowerPoint</a></th>
       </tr>
