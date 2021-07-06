@@ -10,6 +10,8 @@ From learning more about programming languages, to finding a mentor, to learning
 
 :hugs: Stay for a bit and explore! :hugs:
 
+HEYEYYYEO8
+
 
 
 
