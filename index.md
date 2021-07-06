@@ -15,11 +15,11 @@ HEYEYYYEO8
 # Top Featured Certifications
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
 
-<table cellspacing="18">
+<table cellspacing="18" align="center">
     <tr>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
-      <td><img src="Innovation Lab/MSLogo.png" width=200 height=200></td>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
     <tr>
         <th> <a href="https://www.thewindowsclub.com/microsoft-word-tutorial-for-beginners#:~:text=Microsoft%20Word%20tutorial%20for%20beginners%201%20%5D%20Title,...%2010%20%5D%20Help.%20...%20More%20items...%20"> Microsoft Word</a> </th>
@@ -37,7 +37,7 @@ HEYEYYYEO8
     <tr>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
-      <td><img src="Innovation Lab/MSLogo.png" width=200 height=200></td>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
     <tr>
         <th> <a href="https://www.thewindowsclub.com/microsoft-word-tutorial-for-beginners#:~:text=Microsoft%20Word%20tutorial%20for%20beginners%201%20%5D%20Title,...%2010%20%5D%20Help.%20...%20More%20items...%20"> Microsoft Word</a> </th>
