@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 plugins: 
-  - jemoji
+  - jemoji 
 github:
   is_project_page: false
 title: CAU Innovation Lab
