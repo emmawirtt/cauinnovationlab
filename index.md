@@ -21,7 +21,7 @@ HEYEYYYEO8
 
 <h1 align="center"> 2030 MOONSHOT GOALS </h1> 
 
-<h1 align="center" style="color: rgb(0, 68, 124);">  2030 MOONSHOT GOALS </b> </h1>
+<h1 align="center" style="color: rgb(0, 68, 124);"> <b> 2030 MOONSHOT GOALS </b> </h1>
 
 
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
