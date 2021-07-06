@@ -17,7 +17,7 @@ HEYEYYYEO8
 
 <table cellspacing="18" align="center">
     <tr>
-      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+      <td><img src="https://tidbits.com/uploads/2019/04/Microsoft-Word-16.24-icon.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
@@ -35,7 +35,7 @@ HEYEYYYEO8
   
   <table cellspacing="18" align="center">
     <tr>
-      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+      <td><img src="https://tidbits.com/uploads/2019/04/Microsoft-Word-16.24-icon.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
