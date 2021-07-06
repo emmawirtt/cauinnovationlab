@@ -35,7 +35,7 @@ HEYEYYYEO8
     <tr>
       <td><img src="https://www.midlandsteelequipment.co.uk/js/plugins/imagemanager/files/midland-linkedin.png" width=200 height=200></td>
       <td><img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/09/c-sharp-logo-300x300.png" width=200 height=200></td>
-      <td><img src="https://www.logolynx.com/images/logolynx/c4/c4e297cf6b1f22c8df0e7d5ef5bf846e.png" width=200 height=200></td>
+      <td><img src="https://www.midlandsteelequipment.co.uk/js/plugins/imagemanager/files/midland-linkedin.png" width=200 height=200></td>
     </tr>
     <tr>
         <th> <a href="https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers"> High Performers</a> </th>
@@ -51,7 +51,7 @@ HEYEYYYEO8
 
  <table cellspacing="18" align="center">
     <tr>
-      <td><img src="http://thenewblackchick.com/wp-content/uploads/2013/09/Fotolia_14680246_Subscription_Monthly_XL.jpg" width=200 height=200></td>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
     </tr>
