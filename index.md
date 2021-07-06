@@ -33,7 +33,7 @@ HEYEYYYEO8
     </tr>
   </table>
   
-  <table cellspacing="18">
+  <table cellspacing="18" align="center">
     <tr>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
@@ -51,6 +51,23 @@ HEYEYYYEO8
     </tr>
   </table>
 
+ <table cellspacing="18" align="center">
+    <tr>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+    </tr>
+    <tr>
+        <th> <a href="https://www.thewindowsclub.com/microsoft-word-tutorial-for-beginners#:~:text=Microsoft%20Word%20tutorial%20for%20beginners%201%20%5D%20Title,...%2010%20%5D%20Help.%20...%20More%20items...%20"> Microsoft Word</a> </th>
+        <th> <a href="https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb"> Microsoft Excel</a></th>
+        <th><a href="https://support.microsoft.com/en-us/office/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787"> Microsoft PowerPoint</a></th>
+      </tr>
+    <tr>
+      <td>    Microsoft.</td>
+      <td>     Microsoft</td>
+      <td>    Microsoft</td>
+    </tr>
+  </table>
 
 # Successful Student Feedback
 
