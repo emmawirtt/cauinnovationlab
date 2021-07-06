@@ -21,8 +21,6 @@ HEYEYYYEO8
 
 <h1 align="center"> 2030 MOONSHOT GOALS </h1> 
 
-<h1  style="color: rgb(0, 68, 124);">  COLOR TEST </h1>
-
 <h1 align="center" style="color: rgb(0, 68, 124);">  2030 MOONSHOT GOALS </b> </h1>
 
 
