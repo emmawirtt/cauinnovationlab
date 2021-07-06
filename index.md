@@ -4,11 +4,13 @@ filename: index.md
 ---
 # Welcome to the Innovation Lab at Clark Atlanta University
 
-Welcome! On this website you will have access to everything the innovation lab has to offer
+:grin: Welcome! On this website you will have access to everything the innovation lab has to offer :grin:
 
 From learning more about programming languages, to finding a mentor, to learning more about jobs at Dell, we have it all!
-Stay for a bit and explore!
 
+:hugs: Stay for a bit and explore! :hugs:
+
+HEYEYYYEO8
 
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
 
@@ -31,19 +33,19 @@ Stay for a bit and explore!
   
   <table cellspacing="18" align="center">
     <tr>
-      <td><img src="https://www.itsdentalcollege.edu.in/SM%20Icons/ITS%20LinkedIn.png" width=200 height=200></td>
-      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
-      <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
+      <td><img src="https://www.midlandsteelequipment.co.uk/js/plugins/imagemanager/files/midland-linkedin.png" width=200 height=200></td>
+      <td><img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/09/c-sharp-logo-300x300.png" width=200 height=200></td>
+      <td><img src="https://www.logolynx.com/images/logolynx/c4/c4e297cf6b1f22c8df0e7d5ef5bf846e.png" width=200 height=200></td>
     </tr>
     <tr>
         <th> <a href="https://www.linkedin.com/learning/the-six-morning-habits-of-high-performers"> High Performers</a> </th>
-        <th> <a href="https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb"> Microsoft Excel</a></th>
-        <th><a href="https://support.microsoft.com/en-us/office/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787"> Microsoft PowerPoint</a></th>
+        <th> <a href="https://www.linkedin.com/learning/search?keywords=C%2B%2B"> Learning C++</a></th>
+        <th><a href="https://www.linkedin.com/learning/managing-your-personal-finances-2021"> Personal Finances</a></th>
       </tr>
     <tr>
-      <td>    LinkedIn</td>
-      <td>     Microsoft</td>
-      <td>    Microsoft</td>
+      <td>    LinkedIn Learning</td>
+      <td>     LinkedIn Learning</td>
+      <td>    LinkedIn Learning</td>
     </tr>
   </table>
 
