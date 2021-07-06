@@ -2,15 +2,15 @@
 title: CAU Innovation Lab
 filename: index.md
 ---
-# Welcome to the Innovation Lab at Clark Atlanta University
+# Welcome to the Innovation Lab at Clark Atlanta University 
 
-:grin: Welcome! On this website you will have access to everything the innovation lab has to offer :grin:
+Welcome! On this website you will have access to everything the innovation lab has to offer
 
 From learning more about programming languages, to finding a mentor, to learning more about jobs at Dell, we have it all!
 
-:hugs: Stay for a bit and explore! :hugs:
+Stay for a bit and explore!
 
-HEYEYYYEO8
+
 
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
 
