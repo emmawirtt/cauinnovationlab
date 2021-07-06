@@ -12,13 +12,13 @@ From learning more about programming languages, to finding a mentor, to learning
 
 HEYEYYYEO8
 
-# Top Featured Certifications
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
 
+<!-- This code starts the certification section of the home page --> 
 <table cellspacing="18" align="center">
     <tr>
       <td><img src="https://tidbits.com/uploads/2019/04/Microsoft-Word-16.24-icon.png" width=200 height=200></td>
-      <td><img src="https://pluspng.com/img-png/excel-logo-png-img-microsoft-excel-logo-in-svg-vector-or-png-file-format-3000x2000.png" width=200 height=200></td>
+      <td><img src="https://vission.ca/wp-content/uploads/2019/09/Excel-Logo.png" width=200 height=200></td>
       <td><img src="https://logodownload.org/wp-content/uploads/2020/04/microsoft-powerpoint-logo.png" width=200 height=200></td>
     </tr>
     <th> <a href="https://www.thewindowsclub.com/microsoft-word-tutorial-for-beginners#:~:text=Microsoft%20Word%20tutorial%20for%20beginners%201%20%5D%20Title,...%2010%20%5D%20Help.%20...%20More%20items...%20"> Microsoft Word</a> </th>
