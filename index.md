@@ -67,7 +67,10 @@ Stay for a bit and explore!
       <td>    Microsoft</td>
     </tr>
   </table>
-
+<br>
+<br>
+<br>
+<br>
 
 <!-- Successful Student Feedback Table-->
 <table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
