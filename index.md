@@ -76,10 +76,10 @@ Stay for a bit and explore!
 
 <table cellspacing="18" align="center">
     <tr>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
     </tr>
     <tr style ="font-family:Arial, Helvetica, sans-serif;font-weight:bolder;">
         <th style="color: rgb(0, 68, 124);"> ADVANCING SUSTAINABILITY </th>
