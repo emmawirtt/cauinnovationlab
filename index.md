@@ -68,8 +68,24 @@ Stay for a bit and explore!
     </tr>
   </table>
 
-# Successful Student Feedback
 
+<!-- Successful Student Feedback Table-->
+<table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
+  <tr>
+    <td align="left" valign="middle"> <img src="https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/713853.jpg" width=500 height=400> </td>
+    <td align="left" valign="middle"> 
+    <h1 style="color: rgb(0, 68, 124)">Successful Student <h1 style="color: rgb(0, 118, 206)"> Feedback </h1><p> Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit, 
+      <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      <br> Ut enim ad minim veniam, quis nostrud exercitation 
+      <br>ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <br> Duis aute irure dolor in reprehenderit in voluptate velit 
+      <br>esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+      <br>occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+      <br> mollit anim id est laborum. </p></h1> 
+    </td>
+  </tr>
+</table>
 
 # 2030 MOONSHOT GOAlS
 
