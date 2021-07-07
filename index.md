@@ -72,31 +72,6 @@ Stay for a bit and explore!
 
 # 2030 MOONSHOT GOAlS
 
-<h1 align="center" style="color: rgb(0, 68, 124);"> <b> 2030 MOONSHOT GOALS </b> </h1>
-
-<table cellspacing="18" align="center">
-    <tr>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
-      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=276></td>
-    </tr>
-    <tr style ="font-family:Arial, Helvetica, sans-serif;font-weight:bolder;">
-        <th style="color: rgb(0, 68, 124);"> ADVANCING SUSTAINABILITY </th>
-        <th style="color: rgb(0, 68, 124);"> TRANSFORMING LIVES </th>
-        <th style="color: rgb(0, 68, 124);"> CULTIVATING INCLUSION </th>
-        <th style="color: rgb(0, 68, 124);"> UPHOLDING ETHICS & PRIVACY </th>
-      </tr>
-    <tr style ="font-family:Arial, Helvetica, sans-serif;font-size: 12px;font-weight:bold;">
-      <td style="color: rgb(0, 118, 206);"> 1:1 recycling/reuse</td>
-      <td style="color: rgb(0, 118, 206);"> 1 billion better lives</td>
-      <td style="color: rgb(0, 118, 206);"> 50/50 gender representation</td>
-      <td style="color: rgb(0, 118, 206);"> Putting you in the driver's seat</td>
-    </tr>
-  </table>
-
-
-
 <div style="background-color: rgb(238, 238, 238); padding: 35px; border: 1px solid rgb(238, 238, 238);"> 
 <h1 align="center" style="color: rgb(0, 68, 124);"> <b> 2030 MOONSHOT GOALS </b> </h1>
 
