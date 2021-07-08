@@ -10,6 +10,9 @@ From learning more about programming languages, to finding a mentor, to learning
 
 Stay for a bit and explore!
 
+<table cellpadding="5"align="center">
+    <td><img src="https://media.istockphoto.com/photos/heavy-traffic-on-7th-avenue-in-new-york-city-usa-picture-id492099218" width=1000 height="275"></td>  
+  </table>
 
 <!--Certification Table -->
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
