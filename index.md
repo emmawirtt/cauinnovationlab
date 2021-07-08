@@ -75,7 +75,7 @@ Stay for a bit and explore!
 <!-- Successful Student Feedback Table-->
 <table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
   <tr>
-    <td align="left" valign="middle"> <img src="https://s3-eu-west-1.amazonaws.com/wbm.thumbnail/dissolve/1200/713853.jpg" width=600 height=400> </td>
+    <td align="left" valign="middle"> <img src="/Photos/MYellowHat.jpg" width=600 height=400> </td>
     <td align="left" valign="middle"> 
     <h1 style="color: rgb(0, 68, 124)">Successful Student <h1 style="color: rgb(0, 118, 206)"> Feedback </h1><p> Lorem ipsum dolor sit amet, 
       consectetur adipiscing elit, 
@@ -90,8 +90,8 @@ Stay for a bit and explore!
   </tr>
 </table>
 
-# 2030 MOONSHOT GOAlS
 
+<!-- Code for Moonshot Goals Table -->
 <div style="background-color: rgb(238, 238, 238); padding: 35px; border: 1px solid rgb(238, 238, 238);"> 
 <h1 align="center" style="color: rgb(0, 68, 124);"> <b> 2030 MOONSHOT GOALS </b> </h1>
 
@@ -117,6 +117,22 @@ Stay for a bit and explore!
   </table>
 </div>
 
+<!-- Successful Student Feedback Table-->
+<table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
+  <tr>
+    <td align="left" valign="middle"><img src="/Photos/laptop.jpg" width=400 height=300> </td>
+    <td align="left" valign="middle"> 
+    <p style="color: rgb(0, 118, 206)">Subsribe now <h1 style="color: rgb(0, 68, 124)"> Get every single update you need </h1><p> Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit, 
+      <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      <br>esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+      <br>occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+      <br> mollit anim id est laborum. </p></h1> 
+    </td>
+  </tr>
+</table>
+
+<!--
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -159,3 +175,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ![Image](https://webmarketsupport.com/wp-content/uploads/2016/10/free-stock-photos-for-commercial-use-skitterphoto.jpg)
+-->
