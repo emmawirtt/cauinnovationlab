@@ -10,9 +10,8 @@ From learning more about programming languages, to finding a mentor, to learning
 
 Stay for a bit and explore!
 
-<table cellpadding="5"align="center">
-    <td><img src="https://c1.staticflickr.com/9/8010/7455427794_628dbcb27d_z.jpg" width=1000 height="325"></td>  
-  </table>
+   <table> <td><img src="https://c1.staticflickr.com/9/8010/7455427794_628dbcb27d_z.jpg" width=1000 height="325"> </table>
+  
 
 <!--Certification Table -->
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
