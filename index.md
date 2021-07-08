@@ -116,8 +116,9 @@ Stay for a bit and explore!
     </tr>
   </table>
 </div>
-
-<!-- Successful Student Feedback Table-->
+<br>
+<br>
+<!-- Subscribe Table-->
 <table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
   <tr>
     <td align="left" valign="middle"><img src="/Photos/laptop.jpg" width=400 height=300> </td>
