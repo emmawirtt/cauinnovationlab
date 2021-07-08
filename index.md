@@ -11,7 +11,7 @@ From learning more about programming languages, to finding a mentor, to learning
 Stay for a bit and explore!
 
 <table cellpadding="5"align="center">
-    <td><img src="https://media.istockphoto.com/photos/heavy-traffic-on-7th-avenue-in-new-york-city-usa-picture-id492099218" width=1000 height="275"></td>  
+    <td><img src="https://c1.staticflickr.com/9/8010/7455427794_628dbcb27d_z.jpg" width=1000 height="275"></td>  
   </table>
 
 <!--Certification Table -->
