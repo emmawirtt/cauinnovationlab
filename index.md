@@ -10,37 +10,13 @@ From learning more about programming languages, to finding a mentor, to learning
 
 Stay for a bit and explore!
 
-<html>
-   <head>
-      <meta charset="UTF-8">
-        <meta name= "viewport" content="width=device-width, initial-scale=1.0">
-        <title>Welcome to the Innovation Lab at Clark Atlanta University</title>
-        <link rel="stylesheet" href="app.css">
-    
-    
-    
-    </head>
-    <body>
-        <nav>
-            <div class='heading'>
-                <h4>CAU Innovation Lab</h4>
-            </div>
-            <ul class='nav-links'>
-                <li><a class='active' href="index.html">Home</a></li>
-                <li><a href="pages/resources.html">Resources</a></li>
-                <li><a href="pages/thd.html">The Home Depot</a></li>
-                <li><a href="pages/moreatdell.html">More at Dell</a></li>
-            </ul>
-        </nav>
-      
-
    <table> <td><img src="https://c1.staticflickr.com/9/8010/7455427794_628dbcb27d_z.jpg" width=1000 height="325"> </table>
   
 
 <!--Certification Table -->
 <h1 align="center" style="color: rgb(0, 68, 124);"> Top Featured Certifications </h1>
 
-<center><table cellspacing="18">
+<table cellspacing="18" align="center">
     <tr>
       <td><img src="https://tidbits.com/uploads/2019/04/Microsoft-Word-16.24-icon.png" width=200 height=200></td>
       <td><img src="https://vission.ca/wp-content/uploads/2019/09/Excel-Logo.png" width=200 height=200></td>
@@ -56,9 +32,9 @@ Stay for a bit and explore!
       <td>     Microsoft Office</td>
       <td>    Microsoft Offfice</td>
     </tr>
-   </table></center>
+  </table>
   
-  <center><table cellspacing="18">
+  <table cellspacing="18" align="center">
     <tr>
       <td><img src="https://www.midlandsteelequipment.co.uk/js/plugins/imagemanager/files/midland-linkedin.png" width=200 height=200></td>
       <td><img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/09/c-sharp-logo-300x300.png" width=200 height=200></td>
@@ -74,9 +50,9 @@ Stay for a bit and explore!
       <td>     LinkedIn Learning</td>
       <td>    LinkedIn Learning</td>
     </tr>
-     </table></center>
+  </table>
 
- <center><table cellspacing="18">
+ <table cellspacing="18" align="center">
     <tr>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
       <td><img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=200 height=200></td>
@@ -92,7 +68,7 @@ Stay for a bit and explore!
       <td>     Microsoft</td>
       <td>    Microsoft</td>
     </tr>
-    </table></center>
+  </table>
 <br>
 <br>
 <br>
@@ -158,8 +134,6 @@ Stay for a bit and explore!
     </td>
   </tr>
 </table>
-</body>
-</html>
 
 <!--
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
