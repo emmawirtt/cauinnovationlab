@@ -2,6 +2,30 @@
 title: CAU Innovation Lab
 filename: index.md
 ---
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name= "viewport" content="width=device-width, initial-scale=1.0">
+        <title>Welcome to the Innovation Lab at Clark Atlanta University</title>
+        <link rel="stylesheet" href="app.css">
+    
+    
+    
+    </head>
+    <body>
+        <nav>
+            <div class='heading'>
+                <h4>CAU Innovation Lab</h4>
+            </div>
+            <ul class='nav-links'>
+                <li><a class='active' href="index.html">Home</a></li>
+                <li><a href="pages/resources.html">Resources</a></li>
+                <li><a href="pages/thd.html">The Home Depot</a></li>
+                <li><a href="pages/moreatdell.html">More at Dell</a></li>
+            </ul>
+        </nav>
+   </body>
+ </html>
 # Welcome to the Innovation Lab at Clark Atlanta University 
 
 Welcome! On this website you will have access to everything the innovation lab has to offer
