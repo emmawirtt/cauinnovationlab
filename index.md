@@ -25,7 +25,7 @@ filename: index.md
             </ul>
         </nav>
    </body>
-
+</html>
 
 Welcome! On this website you will have access to everything the innovation lab has to offer
 
@@ -96,7 +96,67 @@ Stay for a bit and explore!
 <br>
 <br>
 <br>
-    </html>
+    
+<!-- Successful Student Feedback Table-->
+<table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
+  <tr>
+    <td align="left" valign="middle"> <img src="/Photos/MYellowHat.jpg" width=600 height=400> </td>
+    <td align="left" valign="middle"> 
+    <h1 style="color: rgb(0, 68, 124)">Successful Student <h1 style="color: rgb(0, 118, 206)"> Feedback </h1><p> Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit, 
+      <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      <br> Ut enim ad minim veniam, quis nostrud exercitation 
+      <br>ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <br> Duis aute irure dolor in reprehenderit in voluptate velit 
+      <br>esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+      <br>occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+      <br> mollit anim id est laborum. </p></h1> 
+    </td>
+  </tr>
+</table>
+
+
+<!-- Code for Moonshot Goals Table -->
+<div style="background-color: rgb(238, 238, 238); padding: 35px; border: 1px solid rgb(238, 238, 238);"> 
+<h1 align="center" style="color: rgb(0, 68, 124);"> <b> 2030 MOONSHOT GOALS </b> </h1>
+
+<table cellspacing="18" align="center">
+    <tr>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
+      <td><img src="https://thumbs.dreamstime.com/b/business-people-working-computers-line-office-31447060.jpg" width=150 height=275></td>
+    </tr>
+    <tr style ="font-family:Arial, Helvetica, sans-serif;font-weight:bolder;">
+        <th style="color: rgb(0, 68, 124);"> ADVANCING SUSTAINABILITY </th>
+        <th style="color: rgb(0, 68, 124);"> TRANSFORMING LIVES </th>
+        <th style="color: rgb(0, 68, 124);"> CULTIVATING INCLUSION </th>
+        <th style="color: rgb(0, 68, 124);"> UPHOLDING ETHICS & PRIVACY </th>
+      </tr>
+    <tr style ="font-family:Arial, Helvetica, sans-serif;font-size: 12px;font-weight:bold;">
+      <td style="color: rgb(0, 118, 206);"> 1:1 recycling/reuse</td>
+      <td style="color: rgb(0, 118, 206);"> 1 billion better lives</td>
+      <td style="color: rgb(0, 118, 206);"> 50/50 gender representation</td>
+      <td style="color: rgb(0, 118, 206);"> Putting you in the driver's seat</td>
+    </tr>
+  </table>
+</div>
+<br>
+<br>
+<!-- Subscribe Table-->
+<table cellpadding="5" cellspacing="5" align="center" height="100%" wideth ="100">
+  <tr>
+    <td align="left" valign="middle"><img src="/Photos/laptop.jpg" width=400 height=300> </td>
+    <td align="left" valign="middle"> 
+    <p style="color: rgb(0, 118, 206)">Subsribe now <h1 style="color: rgb(0, 68, 124)"> Get every single update you need </h1><p> Lorem ipsum dolor sit amet, 
+      consectetur adipiscing elit, 
+      <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      <br>esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+      <br>occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+      <br> mollit anim id est laborum. </p></h1> 
+    </td>
+  </tr>
+</table>
 <!--
 You can use the [editor on GitHub](https://github.com/emmawirtt/cauinnovationlab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
